@@ -3,7 +3,6 @@
 
 
 ## Jeu du juste prix
-
  
 
 Faire une application WPF pour faire deviner le prix d'un objet compris entre **1** et **50** à l'utilisateur. 
